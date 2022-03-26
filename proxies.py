@@ -130,6 +130,7 @@ def init_argparse() -> argparse.ArgumentParser:
         type=int,
         default=900,
         help='How often to update the proxies (in seconds) (default is 900)',
+    )    
     return parser
 
 
