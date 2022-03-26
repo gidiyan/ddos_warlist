@@ -8,7 +8,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
 import requests
-from MHDDoS.start import logger, Methods
 from PyRoxy import Proxy
 
 PROXIES_URL = 'https://raw.githubusercontent.com/porthole-ascend-cinnamon/proxy_scraper/main/proxies.txt'
