@@ -1,12 +1,5 @@
 #цілі на 27_03_2022
-#port 443
-#tcp://178.248.232.188:443 tcp://178.248.232.125:443 tcp://185.65.22.35:443 tcp://185.65.22.8:443 tcp://185.65.22.44:443 tcp://185.65.22.17:443 tcp://185.65.20.23:443 tcp://185.170.207.77:443 tcp://185.170.207.63:443 tcp://185.170.204.36:443 tcp://185.170.204.95:443
-#port 80
-#tcp://178.248.232.188:80 tcp://178.248.232.125:80 tcp://185.65.22.35:80 tcp://185.65.22.8:80 tcp://185.65.22.44:80 tcp://185.65.20.5:80 tcp://185.65.22.25:80 tcp://185.65.22.17:80 tcp://185.65.22.5:80 tcp://185.65.20.23:80 tcp://185.170.204.95:80
-
 #working targets
 
-https://evotor.ru https://evoprod.evotor.ru https://online.atol.ru --http-methods STRESS
-#https://evotor.ru https://evoprod.evotor.ru https://vpn.evotor.ru --http-methods STRESS
-#https://ofdp.evotor.ru https://pk.platformaofd.ru --http-methods STRESS
+https://evotor.ru https://evoprod.evotor.ru https://dostavista.ru --http-methods STRESS
 #tcp://178.248.232.188:443 tcp://178.248.232.125:443 tcp://185.65.22.35:443 tcp://185.65.22.8:443 tcp://185.65.22.44:443 tcp://185.65.22.17:443 tcp://185.65.20.23:443 tcp://185.170.207.77:443 tcp://185.170.207.63:443 tcp://185.170.204.36:443 tcp://185.170.204.95:443
