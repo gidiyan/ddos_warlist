@@ -2,5 +2,5 @@
 #working targets
 
 #http://178.248.232.188:80 http://178.248.232.125:80 http://185.65.22.35:80 http://185.65.22.8:80 http://185.65.22.44:80 http://185.65.20.5:80 http://185.65.22.25:80 http://185.65.22.17:80 http://185.65.22.5:80 http://185.65.20.23:80 http://185.170.204.95:80 --http-methods STRESS
-https://178.248.232.188:443 https://178.248.232.125:443 https://185.65.22.35:443 https://185.65.22.8:443 https://185.65.22.44:443 https://185.65.22.17:443 https://185.65.20.23:443 https://185.170.207.77:443 https://185.170.207.63:443 https://185.170.204.36:443 https://185.170.204.95:443 https://89.17.45.18:443 --http-methods STRESS
+https://185.165.123.50:443 https://217.73.60.2:443 https://185.10.63.194:443 https://82.146.44.236:443 https://95.163.180.40:443 https://185.10.63.192:443 https://185.71.67.112:443 https://185.215.4.10:443 https://5.61.236.230:443 https://128.140.175.200:443 https://128.140.175.205:443 https://195.42.165.13:443 https://185.137.235.138:443 https://82.202.251.98:443 --http-methods STRESS
 #https://ac.atol.ru https://lk.atol.ru https://uc.atol.ru https://support.online.atol.ru https://term.atol.ru https://www.atol.ru https://online.atol.ru --http-methods STRESS
