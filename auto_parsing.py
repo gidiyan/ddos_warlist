@@ -110,7 +110,7 @@ def create_backup():
 if __name__ == '__main__':
     get_data()
     print_repository(repo)
-    check_push = input('\npush to git? y/n\n')
+    check_push = input('\npush to git?(y/n) ')
     if check_push.lower() == "y":
         create_backup()
         create_file(HttpData, 'l4_tcp_80.lst')  # put desired name and data
