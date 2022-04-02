@@ -74,10 +74,10 @@ def create_file(data, file_name):
 def join_data():
     str_data = '#targets updated ' + datetime.now().strftime("%m-%h-%Y  %H:%M:%S") + '\n\n'
     str_data += ' '.join(HttpData)
-    str_data += ' --https-method STRESS GET \n'
+    str_data += ' --http-methods STRESS GET \n'
     str_data = str_data.replace("tcp", "http")
     str_data += ' '.join(HttpsData)
-    str_data += ' --https-method STRESS GET \n'
+    str_data += ' --http-methods STRESS GET \n'
     str_data = str_data.replace("tcp", "https")
     return str_data
 
