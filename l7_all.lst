@@ -1,59 +1,43 @@
-95.181.181.254 (80/http)
-http://194.54.14.131:80
-http://194.54.14.168:80
-http://185.157.96.130:80
-http://95.181.181.254:80
-http://194.54.15.144:80
-http://194.54.15.205:80
-http://185.157.97.168:80
-http://185.157.97.98:80
-https://online.sberbank.ru/CSAFront/index.do#/
-194.54.14.131 (443/https, 4477/https)
-84.252.146.82 (443/https)
-84.252.146.81 (443/https)
-https://syncplay.online.sberbank.ru/
-194.186.207.127 (443/https)
-https://web4.online.sberbank.ru/
-https://devices.online.sberbank.ru/
-https://www.sberbank.com/ru
-194.54.14.168 (80/http, 443/https)
-https://www.sberbank.ru/ru/person
-https://tortuga.sberbank.ru/site/login
-185.157.96.29 (443/https)
-185.157.96.29 (80/http, 443/https)
-194.54.14.255 (443/https)
-https://3dsec.sberbank.ru/
-https://mobilecm.csc.sberbank.ru/
-84.252.146.28 (443/https)
-https://office.sberbank.ru/
-194.54.15.168 (443/https)
-https://sber.ru/
-https://sber.ru/business
-185.157.96.130 (80/http, 443/https)
-https://sberdevices.ru/
-https://sberprime.sber.ru/plus
-194.54.15.144 (80/http, 443/https)
-https://promo.sber.ru/sberserenity
-https://osago.sberbank.ru/
-https://rabota.sber.ru/
-194.54.15.205 (443/https)
-https://friend.sber.ru/
-84.252.144.86 (443/https)
-https://api.developer.sber.ru/
-https://pulse.sber.ru/#/
-https://194.54.14.131:443
-https://84.252.146.82:443
-https://84.252.146.81:443
-https://194.186.207.127:443
-https://185.157.97.103:443
-https://194.54.14.168:443
-https://194.54.14.255:443
-https://194.54.14.119:443
-https://84.252.146.28:443
-https://194.54.15.168:443
-https://185.157.96.130:443
-https://95.181.181.254:443
-https://194.54.15.144:443
-https://194.54.15.205:443
-https://84.252.144.86:443
-https://185.157.97.98:443
+http://suz2.crpt.ru
+http://api.mdlp.crpt.ru
+http://kb.crpt.ru
+http://nrz.api.sb.mdlp.crpt.ru
+http://api.sb.mdlp.crpt.ru
+http://82.202.190.212:80
+http://91.230.251.101:80
+http://91.230.251.71:80
+http://91.230.251.77:80
+http://91.230.251.99:80
+http://91.230.251.70:80
+http://78.142.221.17:80
+http://91.230.251.81:80
+http://91.230.251.82:80
+http://91.230.251.78:80
+http://91.230.251.79:80
+https://www.crpt.ru
+https://markirovka.crpt.ru/login-kep
+https://milk.crpt.ru/
+https://ismp.crpt.ru
+https://edo-gismt.crpt.ru/
+https://suzgrid.crpt.ru/login
+https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/
+https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F234&gtin=63649273152709
+https://82.202.190.212:443
+https://91.230.251.101:443
+https://91.230.251.71:443
+https://91.230.251.77:443
+https://91.230.251.99:443
+https://91.230.251.70:443
+https://78.142.221.17:443
+https://91.230.251.81:443
+https://91.230.251.82:443
+https://91.230.251.78:443
+https://91.230.251.79:443
+https://ismp.crpt.ru/api/v3/facade/cis/cis_list 
+https://ismp.crpt.ru/api/v3/auth/cert/key 
+https://ismp.crpt.ru/api/v3/facade/identifytools/listV2 
+https://ismp.crpt.ru/api/v4/facade/cis/cis_list 
+https://ismp.crpt.ru/api/v4/auth/cert/key 
+https://ismp.crpt.ru/api/v4/facade/identifytools/listV2
+https://markirovka.crpt.ru/api/v3/true-api 
+https://markirovka.crpt.ru/api/v4/true-api
