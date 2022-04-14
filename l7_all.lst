@@ -1,44 +1,39 @@
-95.181.181.254 (80/http)
-http://194.54.14.131:80
-http://194.54.14.168:80
-http://185.157.96.130:80
-http://95.181.181.254:80
-http://194.54.15.144:80
-http://194.54.15.205:80
-http://185.157.97.168:80
-http://185.157.97.98:80
 https://online.sberbank.ru/CSAFront/index.do#/
-194.54.14.131 (443/https, 4477/https)
-84.252.146.82 (443/https)
-84.252.146.81 (443/https)
+https://194.54.14.131:443
+https://194.54.14.131:4477
+https://84.252.146.82:443
+https://84.252.146.81:443
 https://syncplay.online.sberbank.ru/
-194.186.207.127 (443/https)
+https://194.186.207.127:443
 https://web4.online.sberbank.ru/
 https://devices.online.sberbank.ru/
 https://www.sberbank.com/ru
-194.54.14.168 (80/http, 443/https)
+https://194.54.14.168:443
+http://194.54.14.168:80
 https://www.sberbank.ru/ru/person
 https://tortuga.sberbank.ru/site/login
-185.157.96.29 (443/https)
-185.157.96.29 (80/http, 443/https)
-194.54.14.255 (443/https)
+https://185.157.96.29:443
+http://185.157.96.29:80
+https://194.54.14.255:443
 https://3dsec.sberbank.ru/
 https://mobilecm.csc.sberbank.ru/
-84.252.146.28 (443/https)
+https://84.252.146.28:443
 https://office.sberbank.ru/
-194.54.15.168 (443/https)
+https://194.54.15.168:443
 https://sber.ru/
 https://sber.ru/business
-185.157.96.130 (80/http, 443/https)
+https://185.157.96.130:443
+http://185.157.96.130:80
 https://sberdevices.ru/
 https://sberprime.sber.ru/plus
-194.54.15.144 (80/http, 443/https)
+https://194.54.15.144:443
+http://194.54.15.144:80
 https://promo.sber.ru/sberserenity
 https://osago.sberbank.ru/
 https://rabota.sber.ru/
-194.54.15.205 (443/https)
+https://194.54.15.205:443
 https://friend.sber.ru/
-84.252.144.86 (443/https)
+https://84.252.144.86:443
 https://api.developer.sber.ru/
 https://pulse.sber.ru/#/
 https://194.54.14.131:443
@@ -57,3 +52,13 @@ https://194.54.15.144:443
 https://194.54.15.205:443
 https://84.252.144.86:443
 https://185.157.97.98:443
+http://95.181.181.25:80
+http://194.54.14.131:80
+http://194.54.14.168:80
+http://185.157.96.130:80
+http://95.181.181.254:80
+http://194.54.15.144:80
+http://194.54.15.205:80
+http://185.157.97.168:80
+http://185.157.97.98:80
+
